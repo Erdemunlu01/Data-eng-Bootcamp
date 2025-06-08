@@ -9,6 +9,17 @@ This project demonstrates an end-to-end data pipeline for IoT sensor data using 
 
 ---
 
+## 📂 Dataset
+
+The project uses the **KETI IoT Sensor Dataset**, which contains readings from CO₂, temperature, humidity, light, and PIR motion sensors.
+
+A publicly available version is hosted on Kaggle:  
+https://www.kaggle.com/datasets/ranakrc/smart-building-system
+
+This dataset was used to generate `processed_output.csv`.
+
+---
+
 ## 🔧 Components
 
 - `data_organization_and_consolidation.py`  
